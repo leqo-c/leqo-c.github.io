@@ -1,16 +1,13 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Some honest facts about myself
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+Hi visitor! My name is Leonardo, and my expertise lies right at the intersection between Data Science and AI Engineering.
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+My passion for problem solving began at 16, when I first encountered Computer Science. Since then, I’ve been driven by curiosity and a desire to turn complex real-world challenges into actionable insights using programming and AI. 
+
+I have a Bachelor's and a Master's degree in Computer Science, both obtained at the University of Pisa in 2016 and 2018, respectively. My master thesis explored a solution to explain the predictions image classification models, based on the [LIME](https://github.com/marcotcr/lime) framework. Please check the [paper](https://arpi.unipi.it/bitstream/11568/1023226/2/pakdd2019investigating.pdf), presented at the _Pacific-Asia Conference on Knowledge Discovery and Data Mining_!

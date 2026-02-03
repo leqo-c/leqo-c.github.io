@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: "leqo-c's AI Corner" 
+title: "leqo-c's Corner" 
 
 # Your name to show in the footer
 author: Leonardo Cariaggi
@@ -21,10 +21,7 @@ author: Leonardo Cariaggi
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Projectss: "projects"
 
 ################
 # --- Logo --- #
