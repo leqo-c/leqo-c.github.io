@@ -2,12 +2,12 @@
 layout: post
 title: Sample blog post to learn markdown tips
 subtitle: There's lots to learn!
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
+gh-repo: leqo-c/leqo-c.github.io
+gh-badge: [follow]
 tags: [test]
 comments: true
 mathjax: true
-author: Bill Smith
+author: Leonardo Cariaggi
 ---
 
 {: .box-success}
