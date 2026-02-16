@@ -13,7 +13,7 @@ author: Leonardo Cariaggi
 
 ## Introduction
 
-In modern English slang, the term vibe coding refers to the act of writing code with the assistance of an AI model. The expression was originally coined by Andrej Karpathy in a [post on the social media X](https://x.com/karpathy/status/1886192184808149383?lang=en) in February 2025, where he described a new, emerging trend among programmers “[...] where you fully give in to the vibes, embrace exponentials, and forget that the code even exists.”. In his post, Karpathy is blown away by the hidden potential of recent AI assistants and he is particularly impressed by the speed at which a code base can evolve and grow using this way of programming.
+In modern English slang, the term vibe coding refers to the act of writing code with the assistance of an AI model. The expression was originally coined by Andrej Karpathy in a [post on the social media X](https://x.com/karpathy/status/1886192184808149383?lang=en) in February 2025, where he described a new, emerging trend among programmers “\[...\] where you fully give in to the vibes, embrace exponentials, and forget that the code even exists.”. In his post, Karpathy is blown away by the hidden potential of recent AI assistants and he is particularly impressed by the speed at which a code base can evolve and grow using this way of programming.
 Although there are different degrees in which developers can be supported by AI in their day-to-day work (e.g., auto completion), vibe coding is specifically used to indicate scenarios in which the AI writes entire software modules or repositories on behalf of the user based on a set of high-level requirements.
 
 ## The Predictions of the Experts
