@@ -6,7 +6,7 @@ gh-repo: leqo-c/leqo-c.github.io
 gh-badge: [follow]
 tags: [AI Assistants, Vibe Coding, Programming]
 comments: true
-share-img: /assets/img/path.jpg
+# share-img: /assets/img/path.jpg
 mathjax: false
 author: Leonardo Cariaggi
 ---
