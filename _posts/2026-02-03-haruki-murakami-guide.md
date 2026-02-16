@@ -1,10 +1,10 @@
 ---
 layout: post
-title: A Journey Through Haruki Murakami's Literary World
-subtitle: Exploring the surreal narratives of Japan's most enigmatic author
+title: The implications of Vibe Coding for the future of programming
+subtitle: How AI assistants are changing the way we write code
 gh-repo: leqo-c/leqo-c.github.io
 gh-badge: [follow]
-tags: [literature, authors, Japanese, fiction]
+tags: [ai-assistants, vibe-coding, programming]
 comments: true
 mathjax: false
 author: Leonardo Cariaggi
