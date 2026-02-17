@@ -2,9 +2,9 @@
 layout: post
 title: The implications of Vibe Coding for the future of programming
 subtitle: How AI assistants are changing the way we write code
-cover-img: /assets/img/beginhof.jpg
-thumbnail-img: /assets/img/beginhof.jpg
-share-img: /assets/img/beginhof.jpg
+cover-img: /assets/img/beginhof_small.jpg
+thumbnail-img: /assets/img/beginhof_small.jpg
+share-img: /assets/img/beginhof_small.jpg
 gh-repo: leqo-c/leqo-c.github.io
 gh-badge: [follow]
 tags: [ai-assistants, vibe-coding, programming]
