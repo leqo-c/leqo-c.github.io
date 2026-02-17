@@ -1022,7 +1022,7 @@ pre {
 }
 
 /* Justify blog post text for better readability */
-.blog-post {
+.blog-post div {
   text-align: justify;
 }
 
