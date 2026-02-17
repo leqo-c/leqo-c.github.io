@@ -2,14 +2,13 @@
 layout: post
 title: The implications of Vibe Coding for the future of programming
 subtitle: How AI assistants are changing the way we write code
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+cover-img: /assets/img/beginhof.jpg
+thumbnail-img: /assets/img/beginhof.jpg
+share-img: /assets/img/beginhof.jpg
 gh-repo: leqo-c/leqo-c.github.io
 gh-badge: [follow]
 tags: [ai-assistants, vibe-coding, programming]
 comments: true
-# share-img: /assets/img/path.jpg
 mathjax: false
 author: Leonardo Cariaggi
 ---
