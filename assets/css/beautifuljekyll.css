@@ -1021,6 +1021,16 @@ pre {
   margin: 0 auto;
 }
 
+/* Justify blog post text for better readability */
+.blog-post {
+  text-align: justify;
+}
+
+.blog-post p {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
 /* Search bar */
 #beautifuljekyll-search-overlay {
   font-family: var(--header-font);
