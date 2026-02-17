@@ -37,7 +37,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-#title-img: /path/to/image
+title-img: /assets/img/home2.png
 
 
 #####################################
@@ -92,12 +92,12 @@ social-network-links:
 
 # Select which social network share links to show in posts
 share-links-active:
-  # twitter: true
-  # facebook: true
+  twitter: true
+  facebook: true
   linkedin: true
   github: true
-  # vk: false
-  # reddit: false
+  vk: false
+  reddit: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
@@ -202,7 +202,7 @@ footer-hover-col: "#0085A1"
 #fb_comment_id: ""
 
 # To use CommentBox, sign up for a Project ID on https://commentbox.io
-#commentbox: "" # Project ID, e.g. "5694267682979840-proj"
+commentbox: "5751329024638976-proj" # Project ID, e.g. "5694267682979840-proj"
 
 # To use Utterances comments: (0) uncomment the following section, (1) fill in
 # "repository" (make sure the repository is public), (2) Enable Issues in your repository,

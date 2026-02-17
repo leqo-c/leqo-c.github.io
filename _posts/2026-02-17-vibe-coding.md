@@ -1,8 +1,8 @@
 ---
 layout: post
-title: The implications of Vibe Coding for the future of programming
-subtitle: How AI assistants are changing the way we write code
-cover-img: /assets/img/beginhof_small.jpg
+title: Coding at the Speed of Thought
+subtitle: How AI assistants and vibe coding have changed the way we program
+cover-img: /assets/img/beginhof_small_dark.jpg
 thumbnail-img: /assets/img/beginhof_small.jpg
 share-img: /assets/img/beginhof_small.jpg
 gh-repo: leqo-c/leqo-c.github.io
@@ -13,28 +13,37 @@ mathjax: false
 author: Leonardo Cariaggi
 ---
 
+In this blog post I'm going to jot down a few of the fascinating and thought-provoking aspects of vibe coding, which is arguably the most unexpected turns in every programmer's career. We will talk about its upsides and downsides as well as the implications for the near future. What I wrote is the result of my purely personal experience in using AI assistants in the last months, as well as my reflections. By sharing this, I hope I can spark some interest and to create an opportunity for friendly and open discussions.
+
 ## Introduction
 
-In modern English slang, the term vibe coding refers to the act of writing code with the assistance of an AI model. The expression was originally coined by Andrej Karpathy in a [post on the social media X](https://x.com/karpathy/status/1886192184808149383?lang=en) in February 2025, where he described a new, emerging trend among programmers “\[...\] where you fully give in to the vibes, embrace exponentials, and forget that the code even exists.”. In his post, Karpathy is blown away by the hidden potential of recent AI assistants and he is particularly impressed by the speed at which a code base can evolve and grow using this way of programming.
+In modern English slang, the term _vibe coding_ refers to the act of writing code with the assistance of an AI model. The expression was originally coined by Andrej Karpathy in a [post on the social media X](https://x.com/karpathy/status/1886192184808149383?lang=en) in February 2025, where he described a new, emerging trend among programmers “_[...] where you fully give in to the vibes, embrace exponentials, and forget that the code even exists._”. In his post, Karpathy is blown away by the hidden potential of recent AI assistants and he is particularly impressed by the speed at which a code base can evolve and grow using this way of programming.
 Although there are different degrees in which developers can be supported by AI in their day-to-day work (e.g., auto completion), vibe coding is specifically used to indicate scenarios in which the AI writes entire software modules or repositories on behalf of the user based on a set of high-level requirements.
 
 ## The Predictions of the Experts
 
-If LinkedIn, tech blogs and podcasts of influential speakers such as Lex Fridman are among your favorite sources of information, chances are that you stumbled upon people making visionary predictions about a future in which a substantial portion of white-collar jobs will be automated and completely taken care of by AI. Some even go the extra mile and believe that blue-collar jobs, too, will undergo a drastic change within the next decade. In fact, the Chinese Xiaomi and the Japanese FANUC are among the pioneers who built the so-called dark factories, fully-automated and AI-assisted production sites that are operating 24/7 and that require zero human intervention. 
+If LinkedIn, tech blogs and podcasts of influential speakers such as Lex Fridman are among your favorite sources of information, chances are that you stumbled upon people making visionary predictions about a future in which a substantial portion of white-collar jobs will be automated and completely taken care of by AI. Some even go the extra mile and believe that blue-collar jobs, too, will undergo a drastic change within the next decade. In fact, the Chinese [Xiaomi](https://www.bgr.com/2087200/xiaomi-dark-robot-smart-phone-factory/) and the Japanese [FANUC](https://www.organizedergi.com/News/5493/robots-the-maker-of-robots-in-fanuc-s-dark-factory) are among the pioneers who built the so-called dark factories, fully-automated and AI-assisted production sites that are operating 24/7 and that require zero human intervention. 
+
 As far as programming is concerned, a widespread belief is that coding will cease to be a sought-after skill in the job market, with recruiters consequently recalibrating their radars to look for organizational and leadership competences among applicants. Thanks to coding assistants such as GitHub Copilot and Claude Code, nobody will be required to take coding classes in university anymore because what once required weeks to build can now be delivered in hours, if not minutes. Instead of learning how to instruct a computer using programming languages, experts seem to agree that people should rather focus on how to engineer and design a software.
+
 Mustafa Suleyman, CEO at Microsoft AI, predicts that, within the next 18 months, AI will reach “human-level performance on most, if not all professional tasks” and that jobs such as accounting, marketing and project management will be completely automated by AI. Activities that require a remarkable level of creativity, such as programming, are not (yet) mentioned directly in his prediction, suggesting that teaching creativity to a machine requires more time (assuming it is possible at all). 
 
 ## How I Approach Vibe Coding
 
 Vibe coding is undoubtedly a revolutionary step forward in how I approach day-to-day programming tasks. It’s changed the way I design solutions, made me rethink about how to best reserve my capacity among different tasks, and even proved to be an effective way of challenging my beliefs about what the best practices are when it comes to coding.
+
 When I need to add functionalities to an existing code base I haven’t written a single line of code of (and for which no documentation is available), AI assistants dramatically help me by providing me with a brief, high-level yet comprehensive overview of the cross-dependencies among functions, classes, and even entire modules. By knowing the exact places where the core logic of the program resides, getting things done suddenly becomes way easier.
+
 On other occasions, vibe coding accompanies me from the very beginning of my development journey. No preexisting code, no functionalities to extend nor bugs to fix: just a clean slate and a handful of high-level requirements in my pocket. While I wait for my smoking-hot tea to brew in my favorite mug, I lay back comfortably on my chair while the AI assistant plans, talks to itself, writes some code, doubts and criticizes its own decisions, and finally cranks out a functioning prototype. Only then do I start reviewing the generated code and try to make sense of what was produced, to familiarize with it and, metaphorically speaking, make it mine. I certainly have to make corrections here and there, but the time I save for shipping a rudimentary but functional POC goes beyond my imagination.
 
 ## The Consequences of the Excessive Use of Vibe Coding
 
 AI assistants and vibe coding are one of the most remarkable leaps forward in present day technology but, as it turns out, too much of anything is bad. Switching off your brain and delegating everything to a machine is not only dangerous, but also it’s definitely not in your best interest as a learner. Every time you make things easier, you become less good at them and that’s why there always needs to be some friction, some challenging aspects in everything you do.
+
 Throughout the next decade, assuming more and more people upload AI-generated code online without questioning the decisions of the AI assistant that wrote it, the internet will be saturated with data that lacks even the tiniest spark of creativity and conforms to a sloppy, sub-optimal programming style. 10 years are worth a century in the tech industry and they’re certainly more than enough for AI models to undergo dramatic performance improvements. However, there’s only so much future AI can do if it’s trained on the same data its predecessors developed. Creativity is like a bolt out of the blue, an unexpected turn from the beaten path, a step into the unknown. It can only stem from the unordinary, and it can never be achieved by doing the same thing over and over again.
+
 In the current state of affairs, AI is unbelievably good in writing code, but only in programming languages that are widely used by smart and talented people across the globe. With such a diverse and extensive set of training data, AI can learn patterns, good code practices, brilliant optimizations, and combine everything into solutions that appear to be the result of a magical process. Conversely, if very limited data is available for training, there is nothing meaningful to learn about it. In a near future, by the time people have offloaded all coding tasks to AI, new programming languages won’t be understood neither by computers nor by people (with few exceptions, most likely). When that happens, developers will have to take a step back, re-learn how to code the hard way, and finally produce enough training data to feed to the models.
+
 Still, in a world where AI has completely replaced programmers and language L has been unanimously chosen as the most appropriate and efficient, nobody will know what is right and what is wrong and, even assuming they do, they won’t have a clue on how to fix errors because they don’t have sufficient practical experience. At the time I’m writing this article, it is difficult for anybody to even realize it because we are still in a phase in which most of the AI practitioners have been coding since way before the release of ChatGPT, back in November 2022. As more and more people ditch coding to focus on other activities, our dependency on opaque, uninterpretable models will increase and will quickly get out of hand.
 
 ## Should You Learn Programming At All in 2026?
