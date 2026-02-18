@@ -13,7 +13,7 @@ mathjax: false
 author: Leonardo Cariaggi
 ---
 
-In this blog post I'm going to jot down a few of the fascinating and thought-provoking aspects of vibe coding, which is arguably the most unexpected turns in every programmer's career. We will talk about its upsides and downsides as well as the implications for the near future. What I wrote is the result of my purely personal experience in using AI assistants in the last months, as well as my reflections. By sharing this, I hope I can spark some interest and to create an opportunity for friendly and open discussions.
+In this blog post, I'm going to jot down a few of the fascinating and thought-provoking aspects of vibe coding, which is arguably the most unexpected turn in every programmer's career. We will talk about its upsides and downsides as well as the implications for the near future. What I wrote is the result of my purely personal experience in using AI assistants in the last months, as well as my reflections. By sharing this, I hope I can spark some interest and create an opportunity for friendly and open discussions.
 
 ## Introduction
 
